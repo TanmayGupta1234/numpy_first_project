@@ -4,6 +4,8 @@ A beginner-friendly NumPy mini project created to practice and demonstrate the c
 
 This project is part of my journey toward learning Python, Data Science, and Machine Learning.
 
+
+
 📌 Project Overview
 
 In this project, NumPy is used to create and analyze a small student dataset.
@@ -26,6 +28,8 @@ Python 3
 NumPy
 Jupyter Notebook / VS Code
 
+
+
 🎯 Learning Objectives
 
 Through this project, I practiced:
@@ -38,6 +42,8 @@ Using NumPy mathematical functions
 Understanding indexing and slicing
 Performing basic statistical analysis
 Understanding how NumPy is used in Data Science
+
+
 
 Why NumPy?
 
@@ -54,6 +60,9 @@ Machine Learning preprocessing
 
 NumPy also provides efficient vectorized operations, which are generally much faster and more convenient than manually processing numerical data using Python loops.
 
+
+
+
 📈 Future Improvements
 
 This project can be expanded by adding:
@@ -67,11 +76,15 @@ Data preprocessing
 Exploratory Data Analysis (EDA)
 Machine Learning models
 
+
+
 👨‍💻 Author
 
 Tanmay Gupta
 
 B.Tech — Artificial Intelligence
+
+
 
 Interested in:
 
